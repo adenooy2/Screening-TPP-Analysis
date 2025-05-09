@@ -8,5 +8,6 @@ Five files are available: <br/>
 -High-sensitivity test in a Two-screen alorithm: twoTestHighSens.R <br/> 
 -High-specificty test in a Two-screen alorithm: twoTestHighSpec.R <br/> 
 -Analysis when both sensitivity and specificty are allowed to vary:  unconstrainedAnalysis.R <br/> 
+-Heatmaps of cost per indiviudal diagnosed: Simple Costing Analysis.R
 
 
