@@ -7,6 +7,6 @@ Five files are available: <br/>
 -High-specificty test in a One-screen alorithm: oneTestHighSpec.R <br/> 
 -High-sensitivity test in a Two-screen alorithm: twoTestHighSens.R <br/> 
 -High-specificty test in a Two-screen alorithm: twoTestHighSpec.R <br/> 
--Analsis with both sensitivyt and specificty are allowed to vary:  unconstrainedAnalysis.R <br/> 
+-Analysis when both sensitivity and specificty are allowed to vary:  unconstrainedAnalysis.R <br/> 
 
 
